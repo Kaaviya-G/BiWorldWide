@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BiWorldWide/static/css/main.073c9b0a.css",
+    "main.js": "/BiWorldWide/static/js/main.b80e8d2e.js",
+    "static/js/787.3d314419.chunk.js": "/BiWorldWide/static/js/787.3d314419.chunk.js",
+    "index.html": "/BiWorldWide/index.html",
+    "main.073c9b0a.css.map": "/BiWorldWide/static/css/main.073c9b0a.css.map",
+    "main.b80e8d2e.js.map": "/BiWorldWide/static/js/main.b80e8d2e.js.map",
+    "787.3d314419.chunk.js.map": "/BiWorldWide/static/js/787.3d314419.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b80e8d2e.js"
+  ]
+}
